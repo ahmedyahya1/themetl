@@ -26,10 +26,10 @@ define( 'DB_NAME', 'compose' );
 define( 'DB_USER', 'admin' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', 'HGVIWTGMWBQRAQLG' );
+define( 'DB_PASSWORD', 'PEROREPRWDTAMCMG' );
 
 /** MySQL hostname */
-define( 'DB_HOST', 'sl-us-south-1-portal.59.dblayer.com:27421' );
+define( 'DB_HOST', 'sl-us-south-1-portal.59.dblayer.com:27432' );
 
 /** Database Charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8' );
